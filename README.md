@@ -43,4 +43,8 @@ During the process stage, the following actions were made:
 1. All .csv files were converted to .xlsx files to conduct calculations
 2. 'ride_length' column was added. It calculates the length of the ride in the HH:MM:SS format
 3. 'day_of_week' column was added. It converts the ride start time to a day, which is displayed with a numeric value (1 - Monday, 7 - Sunday, etc.)
+
 Those simple steps will help us with further analysis.
+
+## Analyze stage: Letting the data speak for itself
+
